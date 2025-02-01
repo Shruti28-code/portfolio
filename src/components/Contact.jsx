@@ -34,7 +34,7 @@ export default function Contact() {
             </div>
 
             {/* Contact Section with Fixed Width */}
-            <div className="flex flex-col md:flex-row items-center justify-center gap-10  bg-gray-800 p-6 rounded-2xl shadow-2xl max-w-4xl w-full transition-all duration-700 ease-in-out transform hover:scale-105"
+            <div className="flex flex-col md:flex-row items-center justify-center gap-10  bg-gray-800 p-2 rounded-2xl shadow-2xl max-w-4xl w-full transition-all duration-700 ease-in-out transform hover:scale-105"
             >
 
                 {/* Image & Social Section */}

@@ -7,7 +7,7 @@ export default function Project() {
             <h1 className="text-3xl font-bold text-blue-400 mb-6">Projects</h1>
 
             {/* Projects Container */}
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 bg-gray-800 p-6 rounded-2xl shadow-2xl  transition-all duration-700 ease-in-out transform hover:scale-105
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 bg-gray-800 p-8 rounded-2xl shadow-2xl  transition-all duration-700 ease-in-out transform hover:scale-105
             
  gap-8 max-w-4xl w-full">
 

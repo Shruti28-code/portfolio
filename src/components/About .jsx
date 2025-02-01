@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div className="flex flex-col  font-serif items-center justify-center min-h-screen bg-gray-900 text-white p-5">
+    <div className="flex flex-col  font-serif items-center justify-center min-h-screen bg-gray-900 text-white p-2">
       <div className="bg-gray-800 shadow-2xl rounded-2xl p-8 max-w-4xl w-full transition-all duration-700 ease-in-out transform hover:scale-105 font-times">
 
         {/* Education Section */}
