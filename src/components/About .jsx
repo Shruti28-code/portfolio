@@ -10,14 +10,14 @@ const About = () => {
           <h4 className="text-2xl font-bold text-blue-400 text-center mb-4">
             Education 🎓
           </h4>
-          <div className="bg-gray-700 p-4 mb-2 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
+          <div className="bg-gray-700  p-4 mb-2 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
             <p className="text-l font-semibold text-blue-300">
               B.Tech in Electronics and Computer Science
             </p>
             <p className="text-gray-300 text-sm">
-              Shri Ramdeobaba College of Engineering and Management
+              Shri Ramdeobaba College of Engineering and Management,Nagpur
             </p>
-            <span className="font-medium text-gray-400">CGPA: 9.53</span>
+            <span className="font-medium text-gray-400">CGPA: 9.4</span>
           </div>
           <div className="bg-gray-700 p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
             <p className="text-l font-semibold text-blue-300">
@@ -43,6 +43,8 @@ const About = () => {
             <i className="devicon-javascript-plain colored text-5xl transition-transform transform hover:scale-110"></i>
             <i className="devicon-react-original colored text-5xl transition-transform transform hover:scale-110"></i>
             <i className="devicon-github-original colored text-5xl transition-transform transform hover:scale-110"></i>
+            <i className="devicon-tailwindcss-original colored text-5xl transition-transform transform hover:scale-110"></i>
+
           </div>
         </div>
       </div>

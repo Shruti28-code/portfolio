@@ -25,10 +25,8 @@ const Profile = () => {
                     <div
                         className="flex mt-4 space-x-4 animate-fadeInUp"
                     >
-                        <button className="bg-blue-500 text-white px-5 py-2 rounded-lg shadow-lg hover:bg-blue-600 transition transform hover:scale-105">
-                            Hire Me
-                        </button>
-                        <a href="Resume SK.pdf" download="Resume SK">
+
+                        <a href="Shruti_Khadatkar_Resume.pdf" download="Resume SK">
                             <button className="border border-blue-400 text-blue-400 px-5 py-2 rounded-lg shadow-lg hover:bg-blue-400 hover:text-white transition transform hover:scale-105">
                                 Get Resume
                             </button>
